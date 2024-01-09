@@ -1,6 +1,6 @@
 # Project Description
 
-## Educational Path Management System
+## Educational Management System
 
 The goal of this project is to develop a system for managing the educational journey of students. The system is designed to handle departments, programs, teachers, modules, students, and grades while adhering to the following specifications:
 
